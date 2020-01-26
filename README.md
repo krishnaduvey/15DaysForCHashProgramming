@@ -2,7 +2,8 @@
 
 
 #### Table Contents :
-[1.  C# Fundamentals and .NET framework (Day 1)](./Fundamentals.md)
+[1.  C# Fundamentals and .NET framework (Day 1)](./Fundamentals.md) 
+
 [2.  Data Types and Keywords in C# (Day 1)](./DataTypesAndKeywords)
 #### 3.  (Day 2) OOPS concept
 #### 4.  (Day 3) Arrays and String
