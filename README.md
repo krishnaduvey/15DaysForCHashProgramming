@@ -2,13 +2,13 @@
 
 
 ### Content :
-#### 1. Exception Handling
-#### 2. Generics
-#### 3. Delegates
-#### 4. Events
-#### 5. Lambda Expressions
-#### 6. Extensions Methods
-#### 7. LINQ
-#### 8. Nullable Types
-#### 9. Dynamics
-#### 10. Asynchronous Programming with Async / Await
+#### 6. Exception Handling
+#### 7. Generics
+#### 8. Delegates
+#### 9. Events
+#### 10. Lambda Expressions
+#### 11. Extensions Methods
+#### 12. LINQ
+#### 13. Nullable Types
+#### 14. Dynamics
+#### 15. Asynchronous Programming with Async / Await
