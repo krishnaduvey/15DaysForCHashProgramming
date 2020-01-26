@@ -1,9 +1,8 @@
 # 10 DaysForCHashProgrammingAdvance
 
 
-### Content :
-#### 1.  (Day 1) C# Fundamentals and .NET framework 
-[ C# Fundamentals and .NET framework ](./Fundamentals.md)
+
+[1.  (Day 1) C# Fundamentals and .NET framework ](./Fundamentals.md)
 #### 2.  (Day 1) Data Types and Keywords in C#
 #### 3.  (Day 2) OOPS concept
 #### 4.  (Day 3) Arrays and String
