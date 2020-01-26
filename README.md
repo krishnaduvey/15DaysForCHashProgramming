@@ -3,7 +3,7 @@
 
 ### Content :
 #### 1.  (Day 1) C# Fundmentals and .NET framework
-#### 2.  (Day 1) Data Types
+#### 2.  (Day 1) Data Types and Keywords in C#
 #### 3.  (Day 2) OOPS concept
 #### 4.  (Day 3) Arrays and String
 #### 5.  (Day 4) Collections
