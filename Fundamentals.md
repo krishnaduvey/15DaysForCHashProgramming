@@ -24,7 +24,8 @@ The most recent version is 8.0, which was released in 2019 alongside Visual Stud
     (In the earlier example, it receives the default access of private.) 
     The enclosing class or struct is not required to be static.
     Main can either have a void, int, or, starting with C# 7.1, Task, or Task<int> return type.
-    If and only if Main returns a Task or Task<int>, the declaration of Main may include the async modifier. Note that this specifically excludes an async void Main method.
+    If and only if Main returns a Task or Task<int>, the declaration of Main may include the async modifier. 
+    Note that this specifically excludes an async void Main method.
     The Main method can be declared with or without a string[] parameter that contains command-line arguments. 
       When using Visual Studio to create Windows applications, you can add the parameter manually or else 
       use the GetCommandLineArgs() method to obtain the command-line arguments. 
