@@ -27,11 +27,11 @@ The most recent version is 8.0, which was released in 2019 alongside Visual Stud
     If and only if Main returns a Task or Task<int>, the declaration of Main may include the async modifier. 
     Note that this specifically excludes an async void Main method.
     The Main method can be declared with or without a string[] parameter that contains command-line arguments. 
-      When using Visual Studio to create Windows applications, you can add the parameter manually or else 
-      use the GetCommandLineArgs() method to obtain the command-line arguments. 
-      Parameters are read as zero-indexed command-line arguments. Unlike C and C++, 
-      the name of the program is not treated as the first command-line argument in the args array, 
-      but it is the first element of the GetCommandLineArgs() method.
+    When using Visual Studio to create Windows applications, you can add the parameter manually or else 
+    use the GetCommandLineArgs() method to obtain the command-line arguments. 
+    Parameters are read as zero-indexed command-line arguments. Unlike C and C++, 
+    the name of the program is not treated as the first command-line argument in the args array, 
+    but it is the first element of the GetCommandLineArgs() method.
 
 
 The following is a list of valid Main signatures:
